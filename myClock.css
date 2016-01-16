@@ -1,0 +1,11 @@
+body{
+  background-color: red;
+  color: green;
+}
+
+#clock{
+  font-size: 5em;
+  font-family: sans-serif;
+  text-align: left;
+  margin-top: 300px;
+} 
