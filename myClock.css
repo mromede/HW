@@ -3,9 +3,16 @@ body{
   color: green;
 }
 
-#clock{
-  font-size: 5em;
-  font-family: sans-serif;
-  text-align: left;
-  margin-top: 300px;
-} 
+h1{
+	color: white;
+	text-align: center;
+}
+
+form{
+	text-align: center;
+}
+
+h2{
+	float: right;
+	color: white; 
+}
