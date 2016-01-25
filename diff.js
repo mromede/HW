@@ -12,7 +12,7 @@
 
 function TheClock(){
 	setInterval(function(){
-		var d, h, m, s;
+		var d, h, m, s; 
 		d = new Date();
 		h = d.getHours();
 		m = d.getMinutes();
